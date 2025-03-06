@@ -1,37 +1,49 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+  </a>
 </p>
 
-## About Laravel
+<p align="center">
+  <a href="https://travis-ci.org/laravel/framework">
+    <img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status">
+  </a>
+  <a href="https://packagist.org/packages/laravel/framework">
+    <img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads">
+  </a>
+  <a href="https://packagist.org/packages/laravel/framework">
+    <img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version">
+  </a>
+  <a href="https://packagist.org/packages/laravel/framework">
+    <img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
+  </a>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Tentang Laravel
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Laravel adalah framework aplikasi web dengan sintaks yang ekspresif dan elegan. Kami percaya bahwa pengembangan harus menjadi pengalaman yang menyenangkan dan kreatif agar benar-benar memuaskan. Laravel memudahkan pengembangan dengan menyederhanakan tugas-tugas umum yang digunakan dalam banyak proyek web, seperti:
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- [Mesin routing yang sederhana dan cepat](https://laravel.com/docs/routing).
+- [Kontainer injeksi dependensi yang powerful](https://laravel.com/docs/container).
+- Beberapa back-end untuk penyimpanan [session](https://laravel.com/docs/session) dan [cache](https://laravel.com/docs/cache).
+- [ORM database](https://laravel.com/docs/eloquent) yang ekspresif dan intuitif.
+- [Migrasi schema](https://laravel.com/docs/migrations) yang agnostik terhadap database.
+- [Pemrosesan job latar belakang yang robust](https://laravel.com/docs/queues).
+- [Penyiaran event real-time](https://laravel.com/docs/broadcasting).
 
-## Learning Laravel
+Laravel mudah diakses, powerful, dan menyediakan alat yang diperlukan untuk aplikasi yang besar dan robust.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Belajar Laravel
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Laravel memiliki [dokumentasi](https://laravel.com/docs) yang paling lengkap dan mendetail serta perpustakaan tutorial video dari semua framework aplikasi web modern, sehingga memudahkan untuk memulai dengan framework ini.
 
-## Laravel Sponsors
+Jika Anda tidak ingin membaca, [Laracasts](https://laracasts.com) dapat membantu. Laracasts berisi lebih dari 1500 tutorial video tentang berbagai topik termasuk Laravel, PHP modern, unit testing, dan JavaScript. Tingkatkan keterampilan Anda dengan menggali perpustakaan video kami yang komprehensif.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Sponsor Laravel
 
-### Premium Partners
+Kami ingin mengucapkan terima kasih kepada sponsor berikut yang telah mendukung pengembangan Laravel. Jika Anda tertarik untuk menjadi sponsor, silakan kunjungi halaman [Patreon Laravel](https://patreon.com/taylorotwell).
+
+### Mitra Premium
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
@@ -47,18 +59,43 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
-## Contributing
+## Berkontribusi
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Terima kasih telah mempertimbangkan untuk berkontribusi pada framework Laravel! Panduan kontribusi dapat ditemukan di [dokumentasi Laravel](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## Kode Etik
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Untuk memastikan bahwa komunitas Laravel ramah bagi semua orang, harap tinjau dan patuhi [Kode Etik](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Kerentanan Keamanan
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Jika Anda menemukan kerentanan keamanan dalam Laravel, silakan kirim email ke Taylor Otwell melalui [taylor@laravel.com](mailto:taylor@laravel.com). Semua kerentanan keamanan akan segera ditangani.
 
-## License
+## Lisensi
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Framework Laravel adalah perangkat lunak open-source yang dilisensikan di bawah [lisensi MIT](https://opensource.org/licenses/MIT).
+
+---
+
+## Tentang SPMB Dinas Pendidikan Kota Solok
+
+SPMB (Sistem Penerimaan Murid Baru) Dinas Pendidikan Kota Solok adalah sebuah sistem yang dikembangkan untuk memfasilitasi proses penerimaan murid baru di Kota Solok. Sistem ini dirancang untuk memudahkan administrasi, meningkatkan transparansi, dan memastikan proses penerimaan murid baru berjalan dengan lancar.
+
+### Pembuat SPMB Dinas Pendidikan Kota Solok
+
+Sistem ini dikembangkan oleh **[Nama Pembuat]** dengan menggunakan framework Laravel. Tujuan utama dari pengembangan sistem ini adalah untuk memberikan solusi teknologi yang efisien dan efektif bagi Dinas Pendidikan Kota Solok dalam mengelola proses penerimaan murid baru.
+
+### Fitur Utama
+
+- **Manajemen Pendaftaran**: Memudahkan proses pendaftaran murid baru secara online.
+- **Verifikasi Data**: Memastikan data yang dimasukkan akurat dan valid.
+- **Laporan Otomatis**: Menghasilkan laporan secara otomatis untuk memudahkan monitoring dan evaluasi.
+- **User-Friendly Interface**: Antarmuka yang mudah digunakan bagi administrator dan calon murid.
+
+### Kontribusi
+
+Jika Anda ingin berkontribusi pada pengembangan SPMB Dinas Pendidikan Kota Solok, silakan ikuti panduan kontribusi yang telah ditetapkan.
+
+---
+
+**© 2025 SPMB Dinas Pendidikan Kota Solok. Dibangun dengan ❤️ menggunakan Laravel.**
